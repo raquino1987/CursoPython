@@ -24,8 +24,9 @@ class numero:
 
 def encabezado():
     print(Fore.GREEN + "=" * 78)
-    print(Fore.GREEN + " " * 24 + "Evaluador y Sumador de Números" + " " * 24)
+    print(Fore.GREEN + " " * 24 + "Evaluador y Sumador de Números")
     print(Fore.GREEN + "=" * 78)
+    print(Fore.YELLOW + " " * 24 + "Creado por Rafa8698")
 
 def main():
     encabezado()
